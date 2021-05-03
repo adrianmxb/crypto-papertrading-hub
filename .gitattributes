@@ -21,3 +21,4 @@
 /src/backend/docker/auth/Dockerfile filter=lfs diff=lfs merge=lfs -text
 /src/backend/docker/trading/Dockerfile filter=lfs diff=lfs merge=lfs -text
 /src/backend/docker/user/Dockerfile filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
