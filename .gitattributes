@@ -24,3 +24,5 @@
 *.sql filter=lfs diff=lfs merge=lfs -text
 /src/backend/docker/marketdata/Dockerfile filter=lfs diff=lfs merge=lfs -text
 *.mustache filter=lfs diff=lfs merge=lfs -text
+/src/frontend/Dockerfile filter=lfs diff=lfs merge=lfs -text
+*.conf filter=lfs diff=lfs merge=lfs -text
