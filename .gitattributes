@@ -26,3 +26,4 @@
 *.mustache filter=lfs diff=lfs merge=lfs -text
 /src/frontend/Dockerfile filter=lfs diff=lfs merge=lfs -text
 *.conf filter=lfs diff=lfs merge=lfs -text
+/src/backend/docker/market/Dockerfile filter=lfs diff=lfs merge=lfs -text
