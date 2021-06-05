@@ -32,3 +32,4 @@
 *.env filter=lfs diff=lfs merge=lfs -text
 *.helmignore filter=lfs diff=lfs merge=lfs -text
 *.tpl filter=lfs diff=lfs merge=lfs -text
+/src/backend/docker/news/Dockerfile filter=lfs diff=lfs merge=lfs -text
